@@ -1,0 +1,17 @@
+.div{
+    border: 4 px dotted blue;
+    width: fit-content;
+    font-size: 24px;
+    padding-top: 10 px;
+    padding-right: 20px;
+    padding-bottom: 30 px;
+    padding-left: 40 px;
+/* shotrand */
+padding: 20 px;
+/* 2 valçores  */
+padding: 30 px 50 px ;
+padding: 20 px 50 px 5 px;
+padding: 30 px 50 px 70 px 90px ;
+padding-inline: 40 px;
+padding-block: 20 px;
+}
