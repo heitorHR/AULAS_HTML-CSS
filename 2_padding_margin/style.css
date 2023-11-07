@@ -1,17 +1,40 @@
+ *{
+    margin:0 ;
+ }
 .div{
-    border: 4 px dotted blue;
+    border: 4px dotted blue;
     width: fit-content;
     font-size: 24px;
-    padding-top: 10 px;
+    padding-top: 10px;
     padding-right: 20px;
-    padding-bottom: 30 px;
-    padding-left: 40 px;
+    padding-bottom: 30px;
+    padding-left: 40px;
 /* shotrand */
-padding: 20 px;
+padding: 20px;
 /* 2 valçores  */
-padding: 30 px 50 px ;
-padding: 20 px 50 px 5 px;
-padding: 30 px 50 px 70 px 90px ;
-padding-inline: 40 px;
-padding-block: 20 px;
+padding: 30px 50px ;
+padding: 20px 50px 5px;
+padding: 30px 50px 70px 90px ;
+padding-inline: 40px;
+padding-block: 20px;
 }
+h1{
+    border:1px solid black ;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+.algum{
+    margin-bottom: 100px;
+
+
+
+}
+.ultimo{
+    margin-bottom: 50px;
+
+}
+.outro{
+    margin-left: auto;
+
+}
+        
