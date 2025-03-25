@@ -7,7 +7,7 @@ const ball = document.getElementById('ball');
 
 const gameWidth = gameContainer.offsetWidth;
 const gameHeight = gameContainer.offsetHeight;
-const paddleSpeed = 10;
+const paddleSpeed = 25;
 const ballSpeed = 4;
 
 let ballX = gameWidth / 2;
